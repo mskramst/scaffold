@@ -1,0 +1,4 @@
+#!/bin/bash
+
+
+pipenv run python tests/strings1.unittest.py

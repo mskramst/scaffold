@@ -1,2 +1,0 @@
-kotlinc -include-runtime -d hello.jar Main.kt Greeting.kt
-java -jar hello.jar

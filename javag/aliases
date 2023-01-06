@@ -1,0 +1,7 @@
+#!/bin/bash
+set -o vi
+shopt -s expand_aliases
+alias root='cd ~/Code/code-in-java'
+alias gmain='cd ~/Code/code-in-java/src/main/java/com/riverflowing/'
+alias gtest='cd ~/Code/code-in-java/src/test/java/com/riverflowing/'
+

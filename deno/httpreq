@@ -1,0 +1,1 @@
+deno run first_steps.ts https://deno.land/manual@v1.29.3/introduction

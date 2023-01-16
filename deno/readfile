@@ -1,0 +1,1 @@
+deno run --allow-read https://deno.land/std@0.172.0/examples/cat.ts /etc/hosts
